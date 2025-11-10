@@ -47,4 +47,15 @@ It applies **ABC and XYZ classifications**, calculates **inventory turnover rati
 
 ---
 
-## **✅ Conc**
+## **✅ Conclusion**
+The dashboard enables **Inventory Managers** to monitor stock efficiently, maintain service levels, and plan **reorder points** accurately.  
+It ensures balanced inventory control, helping organizations reduce holding costs while avoiding stockouts.
+
+---
+
+## **📂 Files Included**
+- `.pbix` file (Power BI Dashboard)  
+- `.xlsx` file (Excel Dataset)  
+- `.pptx` file (Detailed Steps Presentation)  
+- Dashboard Preview Image  
+
